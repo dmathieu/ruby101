@@ -57,17 +57,22 @@
 
     @@@ ruby
     begin
-      f = File.open('ﬁchier.txt')     #=> Le code à exécuter
+      #=> Le code à exécuter
+      f = File.open('ﬁchier.txt')
       texte = f.readline
       puts "L'en-tête du ﬁchier est : #{texte}"
-    rescue Errno::ENOENT => e        #=> Interception d'une erreur
+    rescue Errno::ENOENT => e
+      #=> Interception d'une erreur
       puts "Il n'y a pas de tel ﬁchier !"
-    rescue NoMethodError => e        #=> Interception d'une erreur
+    rescue NoMethodError => e
+      #=> Interception d'une erreur
       puts "Le ﬁchier n'a probablement pas pu être ouvert"
       return false
-    rescue SyntaxError => e          #=> Interception d'une erreur
+    rescue SyntaxError => e
+      #=> Interception d'une erreur
       puts "Une erreur du développeur ? (#{e.message})"
-      raise e                        #=> Soulèvement d'une exception
-    ensure                           #=> Code exécuté quoi qu'il arrive
+      raise e   #=> Soulèvement d'une exception
+    ensure
+      #=> Code exécuté quoi qu'il arrive
       f.close if f.respond_to? :close
     end
