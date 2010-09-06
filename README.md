@@ -1,11 +1,11 @@
-= Ruby 101
+# Ruby 101
 
 This is a conferences support to introduce Ruby in french.
 
-= Presentations
+# Presentations
 
 * [JDLL](http://www.jdll.org/) 2010
 
-= Author and Credits
+# Author and Credits
 
 Damien MATHIEU :: 42 (AT|CHEZ) dmathieu.com
