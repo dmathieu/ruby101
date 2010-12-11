@@ -6,4 +6,5 @@
 
 * Développeur Web @ Oahu Labs
 * http://dmathieu.com
+* http://twitter.com/dmathieu
 * 42@dmathieu.com
