@@ -4,7 +4,7 @@ This is a conferences support to introduce Ruby in french.
 
 # Presentations
 
-* [JDLL](http://www.jdll.org/) 2010
+* [INSSET](http://www.insset.u-picardie.fr/site/licencepro_web) 2010
 
 # Author and Credits
 
