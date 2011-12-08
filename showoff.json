@@ -1,8 +1,6 @@
 [
   { "section": "presentation"},
   { "section": "introduction"},
-  { "section": "idiomes"},
-  { "section": "more"},
   { "section": "start"},
-  { "section": "finally"}
+  { "section": "rails"}
 ]

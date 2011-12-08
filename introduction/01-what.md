@@ -3,8 +3,7 @@
 
 * Un langage de programmation objet, interprété, dynamique
 * Inspiré d'autres langages : Perl, Smalltalk, Eiffel, LISP
-* Créé par Yukihiro “matz” Matsumoto en 1993
-* Distribué depuis 1995
+* Créé par Yukihiro “matz” Matsumoto en 1993; distribué depuis 1995
 
 !SLIDE bullets
 

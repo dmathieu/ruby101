@@ -8,16 +8,10 @@
 ![Groupon](users/groupon.jpg)
 
 !SLIDE center
-![Hulu](users/hulu.png)
-
-!SLIDE center
-![A List Apart](users/alistapart.png)
-
-!SLIDE center
 ![Pragmatic Programmer](users/pragmatic.png)
 
 !SLIDE center
-![Super Marmite](users/super-marmite.png)
+![TigerLily](users/tigerlily.png)
 
 !SLIDE center
 # this

@@ -1,11 +1,20 @@
-!SLIDE bullets incremental
+!SLIDE bullets
 
-* Téléchargement : http://www.ruby-lang.org/fr/downloads/
+# Installation
+* Via RVM : https://rvm.beginrescueend.com/
+* `rvm install 1.9.2`
 
-!SLIDE bullets incremental
+!SLIDE bullets
 # Editeurs
 
 * (g)vi(m) / (X)emacs
 * Eclipse (un plugin existe)
 * TextMate
 * ...
+
+!SLIDE bullets
+# OS
+
+* Linux
+* Mac
+* Pas de windows SVP

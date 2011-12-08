@@ -10,6 +10,6 @@
 # Communautés
 
 * Liste de discussion RubyFR Public : http://groups.google.com/rubyfr-public/
-* Apéros réguliers en France à Paris, Lyon et Toulouse
+* Rencontres régulières en France à Paris, Lyon et Toulouse
 * Salon IRC #ruby.fr  sur irc.freenode.net
 * Les centaines de blogs qui existent sur le web
