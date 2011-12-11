@@ -1,10 +1,4 @@
 !SLIDE bullets
-
-# Installation
-* Via RVM : https://rvm.beginrescueend.com/
-* `rvm install 1.9.2`
-
-!SLIDE bullets
 # Editeurs
 
 * (g)vi(m) / (X)emacs
@@ -18,3 +12,9 @@
 * Linux
 * Mac
 * Pas de windows SVP
+
+!SLIDE
+
+# Installation
+* Via RVM : https://rvm.beginrescueend.com/
+* `rvm install 1.9.2`

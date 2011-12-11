@@ -1,4 +1,4 @@
 !SLIDE
 # irb
 
-![IRB](irb.png)
+![IRB](images/irb.png)
