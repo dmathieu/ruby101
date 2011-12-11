@@ -21,8 +21,3 @@
 
     gem install bundler
     bundle install
-
-!SLIDE
-# Création d'un modèle
-
-    bundle exec rails g model user
