@@ -2,5 +2,6 @@
   { "section": "presentation"},
   { "section": "start"},
   { "section": "introduction"},
-  { "section": "rails"}
+  { "section": "rails"},
+  { "section": "tp"}
 ]
