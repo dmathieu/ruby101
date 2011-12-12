@@ -1,5 +1,9 @@
 !SLIDE
 
+# Ressources
+
+!SLIDE
+
 # guides.rubyonrails.org
 # api.rubyonrails.org
 
