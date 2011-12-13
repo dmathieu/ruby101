@@ -6,7 +6,7 @@
 
 # TP Ecommerce
 
-* Possibilité de s'identifier (voir devise : https://github.com/plataformated/devise).
+* Possibilité de s'identifier (voir devise : https://github.com/plataformatec/devise).
 * Visualisation d'articles.
 * Interface d'admin pour l'ajout, modification et suppression d'articles.
 * Ajout d'articles au panier (pas de passage de commande).
